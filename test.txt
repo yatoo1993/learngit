@@ -3,3 +3,5 @@ just test
 rely just test
 i`m for test
 why are i learn git
+i insert a new content
+change new 
